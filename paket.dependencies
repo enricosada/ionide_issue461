@@ -1,0 +1,6 @@
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core framework: net45
+nuget Expression.Blend.Sdk framework: net45
+nuget FSharp.ViewModule.Core framework: net45
+nuget FsXaml.Wpf framework: net45
