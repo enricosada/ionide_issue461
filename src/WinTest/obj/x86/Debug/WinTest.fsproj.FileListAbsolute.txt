@@ -1,3 +1,0 @@
-d:\fsharp\vscode\Test2\src\WinTest\obj\x86\Debug\WinTest.fsprojResolveAssemblyReference.cache
-d:\fsharp\vscode\Test2\src\WinTest\obj\x86\Debug\WinTest.fsproj.WinTest.exe.config
-d:\fsharp\vscode\Test2\src\WinTest\obj\x86\Debug\WinTest.g.resources
